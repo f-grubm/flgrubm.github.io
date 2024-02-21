@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: Academic Works
 description: Collection of my academic works
+
+collections:
+    - theses
+    - articles
