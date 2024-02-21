@@ -3,5 +3,8 @@ title: Academic Works
 description: Collection of my academic works
 
 collections:
-    - theses
-    - articles
+    theses:
+        output: true
+        permalink: /:collection/:name
+    articles:
+        output: true

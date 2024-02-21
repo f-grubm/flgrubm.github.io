@@ -2,7 +2,7 @@
 layout: post
 title: Towards a Constructive and Predicative Integration Theory of Locally Compact Metric Sets
 author: Fabian Lukas Grubmüller
-permalink: /test/
+keywords: constructive mathematics, constructive analysis, Bishop style mathematics, constructive integration theory
 ---
 
 ## Abstract
