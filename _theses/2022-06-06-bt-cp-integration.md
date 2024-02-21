@@ -2,19 +2,23 @@
 layout: post
 title: Towards a Constructive and Predicative Integration Theory of Locally Compact Metric Sets
 author: Fabian Lukas Grubmüller
-keywords: constructive mathematics, constructive analysis, Bishop style mathematics, constructive integration theory
+tags: constructive mathematics, constructive analysis, Bishop style mathematics, constructive integration theory
 ---
 
 ## Abstract
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non enim praesent elementum facilisis leo vel fringilla. Massa sed elementum tempus egestas sed sed risus pretium quam. Morbi tristique senectus et netus et malesuada fames ac turpis. Commodo sed egestas egestas fringilla phasellus faucibus scelerisque. Vulputate enim nulla aliquet porttitor lacus luctus accumsan. Proin sagittis nisl rhoncus mattis rhoncus urna neque viverra. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Sagittis eu volutpat odio facilisis mauris sit amet massa. Elementum integer enim neque volutpat ac tincidunt vitae. Sed augue lacus viverra vitae. Ut tellus elementum sagittis vitae et. Eu augue ut lectus arcu bibendum at varius. Vitae aliquet nec ullamcorper sit amet risus. Neque sodales ut etiam sit. Elementum nisi quis eleifend quam adipiscing. Tellus elementum sagittis vitae et leo duis. Quis lectus nulla at volutpat diam ut venenatis tellus in.
+Bishop style constructive integration theory constitutes an important milestone in constructive mathematics as it demonstrates the actual feasibility of developing a rich theory of integration within the constructive framework. However, Bishop's approach has the fundamental flaw that it allows impredicativity in the sense that it uses statements that contain quantification over the whole universe of sets. In this thesis, I work towards amending Bishop's theory in order to remove this impredicativity. Furthermore, I try to increase clarity through the explicit use of moduli. First, I introduce the necessary fundamental notions of Bishop Set Theory as presented by Petrakis. Following Bishop's book, I develop the theory of locally compact metric spaces. Lastly, I introduce a notion of integration on locally compact metric spaces and prove that the set of partial functions with compact support constitute an integration space in a sensible manner.
 
 ## Cite
 
 ```bibtex
-@thesis{gru2022,
+@mastersthesis{Gr22,
+    type = {Bachelor's thesis},
+    author = {Grubm\"{u}ller, Fabian Lukas},
+    note = {\url{http://flgrubm.github.io/theses/2022-06-06-bt-cp-integration}},
+    school = {LMU München},
     title = {Towards a Constructive and Predicative Integration Theory of Locally Compact Metric Spaces},
-    autor = {Grubm\"{u}ller, Fabian Lukas},
+    year = {2022},
 }
 ```
 
