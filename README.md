@@ -1,3 +1,4 @@
-# Acadmic Works
+# Academic Works
 
-1. abc
+1. Lorem ipsum
+2. Dolor sit amet
