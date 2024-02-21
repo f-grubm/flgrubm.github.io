@@ -8,3 +8,4 @@ collections:
         permalink: /:collection/:name
     articles:
         output: true
+        permalink: /:collection/:name
