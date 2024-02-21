@@ -7,3 +7,7 @@
 ## Articles
 
 - [A Predicative Approach to the Constructive Integration Theory of Locally Compact Metric Spaces](/articles/2024-01-01-cp-integration) (review pending)
+
+## Other Projects
+
+- [LaTeX templates for various mathematical document types](https://github.com/flgrubm/latex-templates)
