@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Towards a Constructive and Predicative Integration Theory of Locally Compact Metric Sets
+title: Towards a Constructive and Predicative Integration Theory of Locally Compact Metric Spaces
 author: Fabian Lukas Grubmüller
-tags: constructive mathematics, constructive analysis, Bishop style mathematics, constructive integration theory
 ---
 
 ## Abstract
@@ -13,10 +12,10 @@ Bishop style constructive integration theory constitutes an important milestone 
 
 ```bibtex
 @mastersthesis{Gr22,
-    type = {Bachelor's thesis},
+    type = {Bachelor thesis},
     author = {Grubm\"{u}ller, Fabian Lukas},
     note = {\url{http://flgrubm.github.io/theses/2022-06-06-bt-cp-integration}},
-    school = {LMU München},
+    school = {LMU M\"{u}nchen},
     title = {Towards a Constructive and Predicative Integration Theory of Locally Compact Metric Spaces},
     year = {2022},
 }
