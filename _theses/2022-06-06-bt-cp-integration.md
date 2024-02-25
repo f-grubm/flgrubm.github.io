@@ -10,15 +10,15 @@ Bishop style constructive integration theory constitutes an important milestone 
 
 ## Cite
 
-```bibtex
+{% highlight bibtex %}
 @mastersthesis{Gr22,
     type = {Bachelor thesis},
     author = {Grubm\"{u}ller, Fabian Lukas},
-    note = {\url{http://flgrubm.github.io/theses/2022-06-06-bt-cp-integration}},
+    note = {\url{https://flgrubm.github.io/theses/2022-06-06-bt-cp-integration}},
     school = {LMU M\"{u}nchen},
     title = {Towards a Constructive and Predicative Integration Theory of Locally Compact Metric Spaces},
     year = {2022},
 }
-```
+{% endhighlight %}
 
-## PDf File
+## PDF
