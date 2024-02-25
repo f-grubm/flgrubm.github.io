@@ -15,7 +15,7 @@
 <ul>
   {% for article in site.articles %}
     <li>
-      <a href="{{ article.url }}">{{ article.title }}</a> ({{article.year}})
+      <a href="{{ article.url }}">{{ article.title }}</a> ({{article.status}})
     </li>
   {% endfor %}
 </ul>
