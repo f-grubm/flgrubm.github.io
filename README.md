@@ -12,4 +12,4 @@
 
 - [LaTeX templates for various mathematical document types](https://github.com/flgrubm/latex-templates)
 
-{% post_url /theses/2022-06-06-bt-cp-integration %}
+{% post_url _articles/2022-06-06-bt-cp-integration %}
