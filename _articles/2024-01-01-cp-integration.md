@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Towards a Constructive and Predicative Integration Theory of Locally Compact Metric Sets
+title: Towards a Constructive and Predicative Integration Theory of Locally Compact Metric Spaces
 author: Fabian Lukas Grubmüller, Iosif Petrakis
 status: submitted, review pending
 ---
