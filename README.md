@@ -2,15 +2,15 @@
 
 ## Theses
 
-- [Towards a Constructive and Predicative Integration Theory of Locally Compact Metric Spaces](/theses/2022-06-06-bt-cp-integration) (Bachelor thesis)
+<ul>
+  {% for thesis in site.theses %}
+    <li>
+      <a href="{{ thesis.url }}">{{ thesis.title }}</a> ({{ thesis.type}}, {{ thesis.year }})
+    </li>
+  {% endfor %}
+</ul>
 
 ## Articles
-
-- [A Predicative Approach to the Constructive Integration Theory of Locally Compact Metric Spaces](/articles/2024-01-01-cp-integration) (review pending)
-
-## Other Projects
-
-- [LaTeX templates for various mathematical document types](https://github.com/flgrubm/latex-templates)
 
 <ul>
   {% for article in site.articles %}
@@ -19,3 +19,7 @@
     </li>
   {% endfor %}
 </ul>
+
+## Other Projects
+
+- [LaTeX templates for various mathematical document types](https://github.com/flgrubm/latex-templates)

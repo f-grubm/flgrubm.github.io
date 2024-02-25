@@ -2,7 +2,8 @@
 layout: post
 title: Towards a Constructive and Predicative Integration Theory of Locally Compact Metric Spaces
 author: Fabian Lukas Grubmüller
-thesis: Bachelor Thesis
+type: Bachelor Thesis
+year: 2022
 ---
 
 ## Abstract
