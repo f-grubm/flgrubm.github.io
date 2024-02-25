@@ -11,3 +11,11 @@
 ## Other Projects
 
 - [LaTeX templates for various mathematical document types](https://github.com/flgrubm/latex-templates)
+
+<ul>
+  {% for article in site.articles %}
+    <li>
+      <a href="{{ article.url }}">{{ article.title }}</a> ({{article.year}})
+    </li>
+  {% endfor %}
+</ul>
