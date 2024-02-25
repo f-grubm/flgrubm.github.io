@@ -5,7 +5,7 @@
 <ul>
   {% for thesis in site.theses %}
     <li>
-      <a href="{{ thesis.url }}">{{ thesis.title }}</a> ({{ thesis.type}}, {{ thesis.year }})
+      <a href="{{ thesis.url }}">{{ thesis.title }}</a> ({{ thesis.type}}, {{ thesis.date | date: "%Y" }})
     </li>
   {% endfor %}
 </ul>
