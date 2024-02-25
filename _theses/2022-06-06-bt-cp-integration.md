@@ -23,3 +23,5 @@ Bishop style constructive integration theory constitutes an important milestone 
 {% endhighlight %}
 
 ## PDF
+
+[Link to PDF]({% link /assets/2022-bt-cp-integration.pdf %})
