@@ -11,17 +11,39 @@ Bishop style constructive integration theory constitutes an important milestone 
 
 ## Cite
 
+### Hayagriva YAML
+
+{% highlight yaml %}
+bdr-unification:
+  type: Thesis
+  title: Towards a Constructive and Predicative Integration Theory of Locally Compact Metric Spaces
+  author: Grubmüller, Fabian Lukas
+  date: 2022-06-06
+  organization: Ludwig-Maximilians-Universität München
+  url: "https://flgrubm.github.io/theses/2022-06-06-bt-cp-integration"
+  note: Bachelor thesis
+{% endhighlight %}
+
+### BibTeX
+
 {% highlight bibtex %}
 @mastersthesis{Gr22,
     type = {Bachelor thesis},
-    author = {Grubm\"{u}ller, Fabian Lukas},
-    note = {\url{https://flgrubm.github.io/theses/2022-06-06-bt-cp-integration}},
-    school = {LMU M\"{u}nchen},
     title = {Towards a Constructive and Predicative Integration Theory of Locally Compact Metric Spaces},
+    author = {Grubm\"{u}ller, Fabian Lukas},
     year = {2022},
+    school = {LMU M\"{u}nchen},
+    note = {\url{https://flgrubm.github.io/theses/2022-06-06-bt-cp-integration}},
 }
 {% endhighlight %}
 
 ## PDF
 
 [Link to PDF]({% link /assets/2022-bt-cp-integration.pdf %})
+
+## Notes
+
+**Type:** Bachelor Thesis
+**Supervisor:** Dr. Iosif Petrakis
+**Programme:** Mathematics B.Sc.
+**University:** Ludwig-Maximilians-Universität München
