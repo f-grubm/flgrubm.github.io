@@ -2,10 +2,10 @@
 layout: post
 title: A Predicative Approach to the Constructive Integration Theory of Locally Compact Metric Spaces
 author: Fabian Lukas Grubmüller, Iosif Petrakis
-status: submitted, review pending
+status: accepted, publication pending
 ---
 
-**Submitted, review pending...**
+**Accepted, publication pending...**
 
 ## Abstract
 
